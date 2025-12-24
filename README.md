@@ -83,8 +83,7 @@ Atualmente estou construindo meu **portfólio de projetos**, com foco em aprendi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmbraZxy&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=UmbraZxy&theme=dracula&row=1&column=6" height="150"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)height="150"/>
 </div>
 
 ---
