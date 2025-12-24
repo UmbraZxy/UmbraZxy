@@ -83,8 +83,8 @@ Atualmente estou construindo meu **portfólio de projetos**, com foco em aprendi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=UmbraZxy&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app?username=UmbraZxy&theme=dracula&row=1&column=6" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmbraZxy&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=UmbraZxy&theme=dracula&row=1&column=6" height="150"/>
 </div>
 
 ---
