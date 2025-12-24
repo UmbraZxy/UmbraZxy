@@ -84,6 +84,7 @@ Atualmente estou construindo meu **portfólio de projetos**, com foco em aprendi
 
 ## 📊 Estatísticas
 
+
 <p>
   <img 
     align="left" 
@@ -92,10 +93,15 @@ Atualmente estou construindo meu **portfólio de projetos**, com foco em aprendi
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<div align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)height="150"/>
-</div>
 
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 ---
 
 ## 🕹️ Atividade no GitHub
